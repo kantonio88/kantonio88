@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Web Applications**
 
-- 👨‍💻 All of my projects are available on [My Portfolio](My Portfolio)
+- 👨‍💻 All of my projects are available on [kantonio88.github.io/my-personal-website/](kantonio88.github.io/my-personal-website/)
 
 - 💬 Ask me about **React, JavaScript**
 
