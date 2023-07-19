@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kantonio88&label=Profile%20views&color=0e75b6&style=flat" alt="kantonio88" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kantonio88" alt="kantonio88" /></a> </p>
-
 - 🔭 I’m currently working on **upgrading my React and Typescript skills**
 
 - 🌱 I’m currently learning **React and best libraries to use**
